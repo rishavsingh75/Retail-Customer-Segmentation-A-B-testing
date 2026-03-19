@@ -105,11 +105,3 @@ Since stores were pre-selected (not randomly assigned), I built a matching algor
 
 ---
 
-## Files
-
-```
-├── Retail_Analytics.ipynb    # main notebook (Part 1 + Part 2)
-└── README.md
-```
-
-To run: upload `QVI_transaction_data.csv` and `QVI_purchase_behaviour.csv` to the same directory (or Google Drive), then run all cells top to bottom.
